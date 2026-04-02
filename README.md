@@ -67,6 +67,6 @@ Languages
 <summary>🔗 Links</summary>
 
 Portfolio: https://sakshisrivastava.in/  
-LinkedIn: https://www.linkedin.com/in/sakshi-srivastava-058718300/
+LinkedIn:  www.linkedin.com/in/sakshi-srivastava-in
 
 </details>
