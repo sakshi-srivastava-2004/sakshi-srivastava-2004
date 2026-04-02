@@ -13,25 +13,29 @@ This profile showcases my projects, skills, and journey as I continue exploring 
 
 ## 📁 Projects
 
-### 🔹 Smart Motion System
-- Automated lighting system using motion detection  
-- Improves energy efficiency using sensor-based control  
+### 🔹 Motion-Detecting-Light-Automating-System
+- Automated lighting system using motion detection. 
+- Improves energy efficiency using sensor-based control
+- Arduino coding and sensor technology  
 
-### 🔹 Finance Chatbot
-- AI-based chatbot for answering financial queries  
+### 🔹 Finance-Chatbot
+- AI-based chatbot for answering financial queries made in Marathi language therefore
+  supporting regional languages.  
 - Uses NLP techniques for intelligent responses  
 
 ### 🔹 JustPost (Web App)
 - Full-stack MERN application  
 - Users can create and share posts
   
-### 🔹 Analytics Project (Python)
+### 🔹 Steel-Pricing (Data Analytics)
 - Data analysis and visualization using Python  
-- Extracted meaningful insights from datasets
+- Extracted meaningful insights from datasets of Steel pricing values from various manufacturing units pan India.
   
-### 🔹 Smart Attendance System
+### 🔹 Smart-Attendance
 - Automated attendance tracking system  
-- Reduces manual effort and improves accuracy  
+- Reduces manual effort and improves accuracy
+- Inclusion of qr-code for quick attendance marking.
+- Also integrating face recognition system.
 
  
 
