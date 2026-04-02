@@ -66,16 +66,3 @@ Portfolio: https://sakshisrivastava.in/
 LinkedIn: https://www.linkedin.com/in/sakshi-srivastava-058718300/
 
 </details>
-
-
-
-GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sakshi-srivastava-2004&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-srivastava-2004&layout=compact&theme=dark)
-
-
-
-Fun Fact
-I enjoy combining **development + analytics** to build real-world impactful solutions 🚀
